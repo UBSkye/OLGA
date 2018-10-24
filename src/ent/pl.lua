@@ -28,6 +28,12 @@ pl={
     
       --"Ancient sigil of the Deep Voice- an aegis for Matterfolk whom fall to Void."
       call_to_void=0, --Hostile Voidfolk are now passive, pacifying Taintfolk is easier
+    
+      --"Technique of insight. Gather thoughts to draw in those of nearby shades."
+      inner_eye=0, --Enables the "Draw" skill, used to gather clues and lore
+    
+      --"A relic of an ancient Court. Pierce mental defenses when focused."
+      deep_bellow=0, --"Draw" can now pull in even well-defended thoughts
   },
   
   
