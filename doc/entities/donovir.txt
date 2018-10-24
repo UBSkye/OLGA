@@ -1,0 +1,45 @@
+"A hulking Matterfolk from parts unknown. His thick cloak and strange armor billow over his body, concealing the
+ twisted form the Void has thrust upon him."
+
+ 
+> Enter the temple
+> An odd fellow stands in the center of the temple grounds
+> His gaze is fixed on the idols above, each representing the 18 Children of Cal
+> Talking to him does not interrupt his gazing:
+
+"Do not show reverance to these Children playing Gods."
+"For all our suffering is sourced from them- their greed and arrogance doom us even now."
+"Do you think the slumbering Son was crafted by Cal out of anger? Nay, twas a warning. A message."
+"And now Cal's offspring hide away in their worlds, terrified of this infant brother's eventual waking."
+"Let them be forgotten, then. Toss them to the Void, as we did with that wretched Asa!"
+
+
+> Chatting to him again has him quickly turn to gaze straight on at Olga
+
+"What more do you seek here, golden one?"
+"Surely you did not come to offer thoughts to these cowardly idols?"
+"Had your own God the power they claim, you'd be freed from here in a moment's time. But nay, here we are."
+"Retain your memories, child. Don't cast them to false hope."
+
+
+> Chatting once more will have him return to staring at the idols:
+
+"In another world I was called Donovir."
+"For all my life I served under these false Gods, and yet only in death are my eyes opened to their treachery..."
+
+> He turns, slower and softer this time:
+
+"That is why I journey now, to awaken the slumbering Voice the Fadefolk speak of."
+"With its blessing I hope to return to my world alive once more, spread the truths I've learned in this pit of enlightenment."
+"If you seek to wake the Voice as well, then we are allies in our cause. Do not fear to call upon me in times of trouble."
+
+> Soul Bond: Donovir the Acolyte
+"Calls to Donovir for aid. He will restore your soul's stability."
+
+
+> He turns back, gazing again
+> Talking does not interrupt him:
+
+"We cannot fail in this task. There are things far greater than our own salvation that must be done."
+"I will not allow my kin to be fooled by these mere echoes of Cal any longer..."
+
