@@ -1,0 +1,36 @@
+Matterfolk
+  > People from the Realm of Matter. When a Matterfolk falls into the Void their body is left behind in the Matter realm, and
+    only their soul passes through
+  > "More alike your soul reside in this place, indeed."
+  > "Half-forms cast from their shells, falling into the sea of thought and conciousness."
+  > "Many too fearful, many too greedy, to take upon the Deep Voice's dream. Too meek."
+  
+Taintfolk
+  > Souls of Matterfolk that remained in the Void too long and became hostile. Their loss has turned into blind rage and envy
+    towards the Souls that retain their memories, and thus their forms have become grizzly husks meant to rip apart Matterfolk
+    and devour their thoughts
+  > Most of the enemies you'll face are Taintfolk
+  > "That stick and spark you carry, many of the Taintfolk would devour them whole."
+  > "Sigil of knowledge. Sustains twisted souls here. Stops them from falling to the countless hands."
+  > "Fend away them, golden child. In seeking to survive they have lost what makes a soul Matter."
+  
+Fadefolk
+  > Souls of Matterfolk that remained in the Void too long and lost substance. Their loss has turned into sorrow and despair,
+    and thus their transparent forms have become distorted, their thoughts muddled and fogged
+  > "What hope for those who sit and fade?"
+  > "Leave them to misery, child of the south. Waste not a single Flint upon them."
+  > "What empathy can be had for those who set themselves to suffering, for naught?"
+  
+Voidfolk
+  > Naturally born folk of the Void, often called "Strangers" by Matterfolk. They cannot speak or write, and their odd forms
+    can twist and contort freely. Befriending them is quite easy, though they ultimately serve as agents of balance
+  > "The chittering masses gaze upon us from afar, little one."
+  > "Beware their gaze, their smiles. A facade to hide their true nature."
+  > "Cold and callow, these agents of Balance... Their purpose lost to them, now."
+  
+Obed
+  > The "Domain" of the Void, Obed is the sole God residing in this realm and thus is its overseer. The recent chaos and
+    falls seem to be stemming from Obed's disappearance
+  > "The Deep Voice called the half-formed here, one by one in space long past."
+  > "But the Voice dreamed, and the Voice went silent. Now we march along, following its slumbered mutterings."
+  > "The Voice spoke of hope, spark-daughter. We cannot falter yet."
