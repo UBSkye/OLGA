@@ -22,6 +22,12 @@ pl={
                          --Press E to throw, E to reel in, and E to cut early
                          --When pulling in you can move left or right to slide that way, cutting will launch you ahead in the direction 
                          --you’re facing
+    
+      --"Skin stained with dark aether. A cursed child is born this eve."
+      mark_of_void=0, --Enables talking to Voidfolk directly
+    
+      --"Ancient sigil of the Deep Voice- an aegis for Matterfolk whom fall to Void."
+      call_to_void=0, --Hostile Voidfolk are now passive, pacifying Taintfolk is easier
   },
   
   
