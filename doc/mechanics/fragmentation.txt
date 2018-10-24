@@ -1,0 +1,13 @@
+By default, when all health is lost you will wake in the pit called Fade and can choose two paths:
+  1. Recall: Automatically return to your Recall point. This is moved away from enemies, bosses and hazards
+  2. Echo: A symbol of your death location is marked on your map. You can then walk to it yourself, or Recall back anytime.
+When talking to Trent in the Fade pit:
+  "The Void doesn't claim souls. Dying here has little punishment."
+  "Clever folk even use death as a shortcut. Die where you wish to return to some other time, and you can recall it later."
+  "But be warned- many faded souls you see here are those who abused this too liberally..."
+In this sense, death itself can function as a crude checkpoint, as the Recall point only changes when you die again
+Do note that there are still penalties to dying, though they only begin to appear later in the game
+  > After the first boss, the mechanic of Essence is introduced. Dying reduces your Essence, while defeating foes restores
+    it. You need Essence to use Recall, so dying too often will result in you being forced to make your way back on foot.
+  > As Essence lowers below half max Olga will appear faded and transparent, getting more severe before looking like a
+    Fadefolk at 0
