@@ -37,4 +37,17 @@ pl={
   },
   
   
+  x=0,
+  y=0,
+  draw=function(self, dt)
+    
+  end,
+  
+  move=function(self, dt)
+    
+  end,
+  
+  attack=function(self, dt)
+    
+  end,
 }
